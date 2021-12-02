@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100vh;
+}
+
+.atachtment{
+    background-image: url(assets/ordenador.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    color:blue;
+    text-align: center;
+    padding-top: 230px;
+    font-size: 100px;
+}
+
+.space{
+    height: 3000px;
+}
